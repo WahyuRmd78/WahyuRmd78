@@ -1,6 +1,12 @@
-# 💫 About Me:
-# 👨‍💻 Wahyu Ramadhan | Front End Engineer<br><br>Building the web with precision and performance. I love working with modern JavaScript ecosystems to create scalable applications.<br><br>### 💻 Technical Stack:<br>| Category | Tools |<br>| :--- | :--- |<br>| **Frameworks** | React, Next.js, Vite |<br>| **State Management** | Redux, Zustand, React Query |<br>| **Styling** | Tailwind CSS, Bootstrap, Material UI |<br>| **Testing** | Jest, Cypress |<br>| **Build Tools** | Webpack, Git, Docker |
+# Hi there, I'm Wahyu Ramadhan <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+## I'm a Front End Developer
+
+- 🌱 I am currently learning more about Front End development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
+- 😄 Pronouns: He/Him
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
