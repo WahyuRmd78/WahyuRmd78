@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
+
  
 I'm Wahyu Ramadhdan, a Sistem Informasi student at Universitas Terbuka who loves building (and occasionally breaking) things on the web.
  
