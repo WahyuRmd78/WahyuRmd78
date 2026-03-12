@@ -4,13 +4,6 @@ I'm Wahyu Ramadhdan, a Sistem Informasi student at Universitas Terbuka who loves
  
 Currently, I’m deep-diving into Frontend Development, making sure web apps don't just work, but feel smooth and look sharp. When I'm not tweaking CSS or debugging TypeScript, you'll probably find me exploring the world of Cyber Security, specifically on the Red Team side of things.
 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
-[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
-[![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
-[![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
-[![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
-
 ### Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
 
@@ -26,11 +19,7 @@ Currently, I’m deep-diving into Frontend Development, making sure web apps don
 ### Others
 
 ![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
--->
-
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=maroongold&show_icons=true&)
+--
 
 <!---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
